@@ -1,3 +1,11 @@
+#' Draw axes for a new diagram
+#'
+#' @param ...
+#'
+#' @return a plot object with two axes without any labels
+#' @export
+#'
+#' @examples
 axs <- function (...) {
   plot(
     x = seq(0, 10, 1),
