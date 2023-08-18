@@ -1,6 +1,6 @@
 #' Draw axes for a new diagram
 #'
-#' @param ...
+#' @param ... arguments to be passed to methods used by [`plot()`]
 #'
 #' @return a plot object with two axes without any labels
 #' @export

@@ -7,7 +7,7 @@
 axs(...)
 }
 \arguments{
-\item{...}{}
+\item{...}{arguments to be passed to \code{\link[=plot]{plot()}}}
 }
 \value{
 a plot object with two axes without any labels
