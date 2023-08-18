@@ -1,5 +1,5 @@
 Package: edigs
-Title: Create Efficiently Elegant Economic Diagrams
+Title: Efficiently Create Economic Diagrams
 Version: 0.0.0.9000
 Authors@R: 
     person("Lyuben", "Ivanov", , "l.ivanov@feb.uni-sofia.bg", role = c("aut", "cre"),
